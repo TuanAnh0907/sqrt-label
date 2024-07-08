@@ -1,0 +1,158 @@
+p1 {
+    font-family: arial;
+    color: red;
+}
+
+
+li {
+    FONT-FAMILY: arial;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: bold;
+
+}
+
+a:hover {
+    color: red;
+}
+
+a.small {
+    FONT-FAMILY: arial;
+    font-weight: normal;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.small:hover {
+    FONT-FAMILY: arial;
+    font-weight: normal;
+    color: red;
+    FONT-SIZE: 11px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+a.banner {
+    color: black;
+}
+
+a.banner:visited {
+    color: black;
+}
+
+
+h1.band {
+    FONT-FAMILY: arial;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    letter-spacing: 5px;
+    FONT-SIZE: 14px;
+    text-decoration: none;
+}
+
+h1.cd {
+    FONT-FAMILY: arial;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    letter-spacing: 5px;
+    FONT-SIZE: 12px;
+    text-decoration: italic;
+}
+
+body {
+    color: black;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: arial;
+}
+
+p {
+    FONT-FAMILY: arial;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+}
+
+p.white {
+    FONT-FAMILY: arial;
+    color: white;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+}
+
+td.media {
+    FONT-FAMILY: arial;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+    text-indent: 20px;
+}
+
+td.lewy {
+    FONT-FAMILY: arial;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+    text-align: left;
+}
+
+td.srodek {
+    FONT-FAMILY: arial;
+    color: black;
+    FONT-SIZE: 11px;
+    text-decoration: none;
+    text-align: left;
+}
+
+div.news {
+    width: 500px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-family: arial;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+hr {
+    border: none 0;
+    border-top: 1px dashed #000; /*the border*/
+    width: 50%;
+    height: 1px;
+}
+
+/*
+     FILE ARCHIVED ON 01:43:50 Mar 13, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:34:54 Jul 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.733
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.08
+  esindex: 0.01
+  cdx.remote: 20.316
+  LoadShardBlock: 221.771 (3)
+  PetaboxLoader3.datanode: 6327.641 (5)
+  PetaboxLoader3.resolve: 1334.933 (3)
+  load_resource: 7548.85 (2)
+*/
